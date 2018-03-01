@@ -32,6 +32,7 @@ http://wthrcdn.etouch.cn/weather_mini?citykey=101010300
 ## 二，APK下载
 
 ### [OnlyKnow.APK](http://101.132.168.25:8090/WeiZhiService/APP/OnlyKnow.apk)
+### https://fir.im/OnlyKnow
 
 ## 三，声明
 
